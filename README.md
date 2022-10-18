@@ -32,7 +32,6 @@ These are the main technologies used:
 ### FORK (learners)
 
 - Go to https://github.com/factset/csr-collaboration-app
-- FORK PROJECT IS DISABLED
 
 ### CHECKOUT (learners)
 
